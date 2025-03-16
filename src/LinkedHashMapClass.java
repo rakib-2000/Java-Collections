@@ -1,6 +1,5 @@
 import java.util.LinkedHashMap;
 import java.util.Map;
-import java.util.Objects;
 
 public class LinkedHashMapClass {
     public static void main(String[] args) {
