@@ -27,7 +27,7 @@ public class ArrayListClass {
          * Return type is always integer.
          * Time complexity - O(1) cause by default count goes on.
          */
-        System.out.println(arrayList.size());;
+        System.out.println(arrayList.size());
 
         /*
          * Set operation replaces elements to the array list by specific index number.
