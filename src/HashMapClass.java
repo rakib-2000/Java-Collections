@@ -10,7 +10,7 @@ public class HashMapClass {
          * It doesn't maintain insertion order.
          * Time complexity - O(1)
          */
-        hashMap.put("Name", "Md Rakib");
+         hashMap.put("Name", "Md Rakib");
         hashMap.put("Age", 26);
         hashMap.put("Years of Experience", 5.5);
 
