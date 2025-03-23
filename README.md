@@ -8,6 +8,7 @@ Java Collections can achieve all the operations that you perform on a data such 
 Java Collection means a single unit of objects. Java Collection framework provides many interfaces such as Set, List, Queue, Deque and classes such as ArrayList, Vector, LinkedList, PriorityQueue, HashSet, LinkedHashSet, TreeSet.
 
 ## Java Collection Hierarchy  
+![collections-hierarchy](https://github.com/user-attachments/assets/6c0add49-5249-4dcf-8c00-59ec48a01451)
 
 ## ArrayList
 ArrayList is a class that implements List interface. The ArrayList class has a regular array inside it. When an element is added, it is placed into the array. If the array is not big enough, a new, larger array is created to replace the old one and the old one is removed.
