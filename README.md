@@ -47,7 +47,7 @@ HashMap is a class that implements Map interface. The functionality and behaviou
 
 • Implements Map interface
 
-• Doesn't insertion order
+• Doesn't maintain insertion order
 
 • Internal data structure is hash table
 
